@@ -1,2 +1,2 @@
 # nomadgram
-Cloning Instargram with Pthon Django and React / React Native
+Cloning Instargram with Python Django and React / React Native
